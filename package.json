@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kusakabe0614/Typescript#readme",
   "dependencies": {},
   "devDependencies": {
+    "ts-node": "^9.1.1",
     "typescript": "^4.2.3"
   }
 }
